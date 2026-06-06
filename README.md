@@ -110,12 +110,12 @@ Automobile-MPG-Analysis/
 │
 ├── Automobile_MPG_Analysis.ipynb
 ├── README.md
+└── Report.pdf
 ```
 
 ---
 
 ## Author
-
-Y V BHAVANA
+Y V Bhavana
 
 B.Tech (Artificial Intelligence & Machine Learning)
