@@ -115,7 +115,7 @@ Automobile-MPG-Analysis/
 
 ---
 
-## Author
+
 Y V Bhavana
 
 B.Tech (Artificial Intelligence & Machine Learning)
